@@ -1,4 +1,4 @@
-FROM handcraftedbits/nginx-unit:1.0.1
+FROM handcraftedbits/nginx-unit:1.1.0
 MAINTAINER HandcraftedBits <opensource@handcraftedbits.com>
 
 ARG GLIBC_VERSION=2.23-r3

@@ -4,3 +4,7 @@ A [Docker](https://www.docker.com) container used as a basis for
 [NGINX Host](https://github.com/handcraftedbits/docker-nginx-host) units that require a
 [JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html).  This container is not meant to be run in a
 standalone manner.
+
+# Deprecation Notice
+
+This unit has been deprecated.  All units now use [OpenJDK](http://openjdk.java.net).
